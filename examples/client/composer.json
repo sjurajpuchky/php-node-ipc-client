@@ -11,6 +11,6 @@
     ],
     "minimum-stability": "dev",
     "require": {
-        "baba/php-node-ipc-client": "1.0.1"
+        "baba/php-node-ipc-client": "*"
     }
 }

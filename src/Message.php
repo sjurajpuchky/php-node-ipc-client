@@ -2,6 +2,8 @@
 
 namespace BABA\NodeIPC;
 
+use stdClass;
+
 /**
  * Class Message
  * @package BABA\NodeIPC
@@ -16,7 +18,7 @@ class Message
 
     /**
      * Message constructor.
-     * @param stdClass $data
+     * @param mixed $data
      * @param string $type
      */
 
