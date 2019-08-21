@@ -26,5 +26,5 @@
   "provide": {
     "baba/php-node-ipc-client": "1.0.0"
   },
-  "minimum-stability": "dev"
+  "minimum-stability": "stable"
 }
