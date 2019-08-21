@@ -30,6 +30,8 @@ HOW TO RUN
 ### then go to client in separated terminal
 > cd examples/client
 >
+> composer install
+>
 > php ipc-client.php
 >
 

@@ -1,0 +1,15 @@
+{
+    "name": "baba/ipc-client-example",
+    "description": "Example of IPC client usage",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Juraj Puchký",
+            "email": "info@baba.bj"
+        }
+    ],
+    "require": {
+	"baba/php-node-ipc-client": "*"
+    }
+}
