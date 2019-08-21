@@ -8,8 +8,5 @@
             "name": "Juraj Puchký",
             "email": "info@baba.bj"
         }
-    ],
-    "require": {
-	"baba/php-node-ipc-client": "*"
-    }
+    ]
 }

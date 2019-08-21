@@ -4,7 +4,6 @@
     "homepage": "https://github.com/sjurajpuchky/php-node-ipc-client/",
     "keywords": ["node-ipc", "php", "client"],
     "license": "MIT",
-    "version": "1.0.0",
     "type": "library",
     "authors": [
         {
@@ -19,5 +18,8 @@
         "psr-0": {
             "BABA\\NodeIPC": "src/"
         }
-    }
-}
+    },
+    "provide": {
+        "baba/php-node-ipc-client": "1.0.0"
+    },
+    "minimum-stability": "dev"}
