@@ -1,10 +1,13 @@
 {
     "name": "baba/php-node-ipc-client",
     "description": "node-ipc client implementation in PHP",
+    "homepage": "https://github.com/sjurajpuchky/php-node-ipc-client/",
+    "keywords": ["node-ipc", "php", "client"],
     "license": "MIT",
+    "type": "library",
     "authors": [
         {
-            "name": "Juraj Puchký",
+            "name": "Juraj Puchký - BABA Tumise s.r.o.",
             "email": "info@baba.bj"
         }
     ],
