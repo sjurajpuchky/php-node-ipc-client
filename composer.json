@@ -4,6 +4,7 @@
     "homepage": "https://github.com/sjurajpuchky/php-node-ipc-client/",
     "keywords": ["node-ipc", "php", "client"],
     "license": "MIT",
+    "version": "1.0.0",
     "type": "library",
     "authors": [
         {
