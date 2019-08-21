@@ -8,5 +8,9 @@
             "name": "Juraj Puchký",
             "email": "info@baba.bj"
         }
-    ]
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "baba/php-node-ipc-client": "dev-master"
+    }
 }

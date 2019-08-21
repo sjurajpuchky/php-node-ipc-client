@@ -25,7 +25,7 @@ HOW TO RUN
 >
 > npm install
 >
-> nodejs src/server.js
+> node src/server.js
 
 ### then go to client in separated terminal
 > cd examples/client

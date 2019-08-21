@@ -1,8 +1,9 @@
 <?php
 
+require_once __DIR__ . '/vendor/autoload.php';
 
+use BABA\NodeIPC\Client;
 
+$ipc = new Client('unix:///tmp/sample.sock');
 
-$ipc = new IPCClient('unix:///tmp/app.mobilni-eshop-websocket-server.sock');
-
-$ipc->emit('notify','test');
+$ipc->emit('message', 'Hello world!!!');
